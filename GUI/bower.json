@@ -1,0 +1,21 @@
+{
+  "name": "GUI",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.1.0",
+    "purescript-effect": "^2.0.0",
+    "purescript-math": "^2.1.1",
+    "purescript-functions": "^4.0.0",
+    "purescript-maybe": "^4.0.0",
+    "purescript-arrays": "^5.1.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}

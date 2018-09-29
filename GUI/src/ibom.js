@@ -1,7 +1,7 @@
 /* DOM manipulation and misc code */
 
 
-var Split = require('../vender/split.js')
+var Split = require('split.js')
 var globalData = require('./global.js')
 var render = require('./render.js')
 var pcb    = require('./pcb.js')

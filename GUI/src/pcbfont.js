@@ -1,4 +1,4 @@
-var pcbFont = {
+module.exports = {
     "font_data": {
         " ": {
             "l": [],
